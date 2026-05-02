@@ -1,0 +1,13 @@
+topic,comparable_statements,overwhelming_consensus_count,overwhelming_consensus_rate,median_confidence_weighted_score,mean_confidence_weighted_score,agree_count_at_or_above_0_90,disagree_count_at_or_above_0_90,uncertain_count_at_or_above_0_90
+Political economy and institutions,306,55,0.179739,0.525000,0.526993,52,3,0
+Public finance and fiscal policy,424,71,0.167453,0.520000,0.509458,62,9,0
+"Labor, education, and inequality",232,38,0.163793,0.500000,0.511552,37,1,0
+International trade and globalization,310,42,0.135484,0.510000,0.493548,34,8,0
+Health and social policy,144,19,0.131944,0.565000,0.541875,18,1,0
+"Growth, productivity, and technology",401,49,0.122195,0.490000,0.490200,46,3,0
+Macroeconomics and monetary,158,19,0.120253,0.385000,0.435000,15,4,0
+"Finance, banking, and markets",316,34,0.107595,0.420000,0.450348,33,1,0
+"Competition, regulation, and industrial policy",301,32,0.106312,0.440000,0.465847,29,3,0
+Housing and urban economics,73,7,0.095890,0.480000,0.483836,6,1,0
+"Climate, energy, and environment",162,15,0.092593,0.455000,0.458827,14,1,0
+Other,1,0,0.000000,0.680000,0.680000,0,0,0

@@ -1,0 +1,551 @@
+{
+  "configuration": {
+    "broad_topic_map": {
+      "Antitrust/competition": "Competition, regulation, and industrial policy",
+      "Banking": "Finance, banking, and markets",
+      "COVID/pandemic policy": "Health and social policy",
+      "Climate/environment": "Climate, energy, and environment",
+      "Education": "Labor, education, and inequality",
+      "Energy": "Climate, energy, and environment",
+      "Financial regulation": "Finance, banking, and markets",
+      "Fiscal policy": "Public finance and fiscal policy",
+      "Growth/productivity": "Growth, productivity, and technology",
+      "Healthcare": "Health and social policy",
+      "Housing/urban policy": "Housing and urban economics",
+      "Immigration": "International trade and globalization",
+      "Industrial policy": "Competition, regulation, and industrial policy",
+      "Inequality/redistribution": "Labor, education, and inequality",
+      "International economics": "International trade and globalization",
+      "Labor markets": "Labor, education, and inequality",
+      "Monetary policy": "Macroeconomics and monetary",
+      "Other": "Other",
+      "Political economy": "Political economy and institutions",
+      "Public finance": "Public finance and fiscal policy",
+      "Taxation": "Public finance and fiscal policy",
+      "Trade": "International trade and globalization"
+    },
+    "min_topic_n_for_topic_tests": 20,
+    "outcome": "confidence_weighted_score >= 0.90",
+    "permutations": 20000,
+    "score_field": "confidence_weighted_score",
+    "seed": 7,
+    "threshold": 0.9
+  },
+  "denominators": {
+    "comparable_rows": 1122,
+    "overall_overwhelming_consensus_rate": 0.13814616755793227,
+    "overwhelming_consensus_rows": 155
+  },
+  "metadata": {
+    "created_at_utc": "2026-05-01T22:13:42.731761+00:00",
+    "input_file": "statements_consensus.csv",
+    "script": "topic_consensus_test.py"
+  },
+  "method": {
+    "multi_label_note": "A statement may belong to multiple topics. The permutation omnibus test preserves this multi-label structure.",
+    "omnibus": "Permutation test. Topic memberships are held fixed, the binary high-consensus outcome is shuffled across statements, and the test statistic is the sum across topics of n_topic * (topic_rate - overall_rate)^2 / (overall_rate * (1 - overall_rate)).",
+    "topic_vs_rest": "Two-sided exact hypergeometric topic-vs-rest tests, followed by Benjamini-Hochberg false-discovery-rate correction within each topic family."
+  },
+  "omnibus_tests": {
+    "broad_topics": {
+      "p_value": 0.016199,
+      "permutations": 20000,
+      "seed": 7,
+      "statistic": 19.090735,
+      "test": "permutation_omnibus",
+      "topic_count": 11,
+      "topic_field": "broad_topics"
+    },
+    "fine_topics": {
+      "p_value": 0.025449,
+      "permutations": 20000,
+      "seed": 8,
+      "statistic": 33.013665,
+      "test": "permutation_omnibus",
+      "topic_count": 21,
+      "topic_field": "fine_topics"
+    }
+  },
+  "topic_vs_rest_tests": {
+    "broad_topics": [
+      {
+        "bh_q_value": 0.167399,
+        "difference_from_overall_rate": 0.041592,
+        "high_consensus_count": 55,
+        "high_consensus_direction_counts": {
+          "Agree": 52,
+          "Disagree": 3
+        },
+        "high_consensus_rate": 0.179739,
+        "mean_score": 0.526993,
+        "median_score": 0.525,
+        "n": 306,
+        "p_value": 0.015218,
+        "topic": "Political economy and institutions"
+      },
+      {
+        "bh_q_value": 0.176013,
+        "difference_from_overall_rate": 0.029307,
+        "high_consensus_count": 71,
+        "high_consensus_direction_counts": {
+          "Agree": 62,
+          "Disagree": 9
+        },
+        "high_consensus_rate": 0.167453,
+        "mean_score": 0.509458,
+        "median_score": 0.52,
+        "n": 424,
+        "p_value": 0.032002,
+        "topic": "Public finance and fiscal policy"
+      },
+      {
+        "bh_q_value": 0.184669,
+        "difference_from_overall_rate": -0.045554,
+        "high_consensus_count": 15,
+        "high_consensus_direction_counts": {
+          "Agree": 14,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.092593,
+        "mean_score": 0.458827,
+        "median_score": 0.455,
+        "n": 162,
+        "p_value": 0.08394,
+        "topic": "Climate, energy, and environment"
+      },
+      {
+        "bh_q_value": 0.184669,
+        "difference_from_overall_rate": -0.031834,
+        "high_consensus_count": 32,
+        "high_consensus_direction_counts": {
+          "Agree": 29,
+          "Disagree": 3
+        },
+        "high_consensus_rate": 0.106312,
+        "mean_score": 0.465847,
+        "median_score": 0.44,
+        "n": 301,
+        "p_value": 0.063898,
+        "topic": "Competition, regulation, and industrial policy"
+      },
+      {
+        "bh_q_value": 0.184669,
+        "difference_from_overall_rate": -0.030551,
+        "high_consensus_count": 34,
+        "high_consensus_direction_counts": {
+          "Agree": 33,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.107595,
+        "mean_score": 0.450348,
+        "median_score": 0.42,
+        "n": 316,
+        "p_value": 0.06776,
+        "topic": "Finance, banking, and markets"
+      },
+      {
+        "bh_q_value": 0.369353,
+        "difference_from_overall_rate": 0.025647,
+        "high_consensus_count": 38,
+        "high_consensus_direction_counts": {
+          "Agree": 37,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.163793,
+        "mean_score": 0.511552,
+        "median_score": 0.5,
+        "n": 232,
+        "p_value": 0.201465,
+        "topic": "Labor, education, and inequality"
+      },
+      {
+        "bh_q_value": 0.43815,
+        "difference_from_overall_rate": -0.015952,
+        "high_consensus_count": 49,
+        "high_consensus_direction_counts": {
+          "Agree": 46,
+          "Disagree": 3
+        },
+        "high_consensus_rate": 0.122195,
+        "mean_score": 0.4902,
+        "median_score": 0.49,
+        "n": 401,
+        "p_value": 0.278823,
+        "topic": "Growth, productivity, and technology"
+      },
+      {
+        "bh_q_value": 0.521342,
+        "difference_from_overall_rate": -0.042256,
+        "high_consensus_count": 7,
+        "high_consensus_direction_counts": {
+          "Agree": 6,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.09589,
+        "mean_score": 0.483836,
+        "median_score": 0.48,
+        "n": 73,
+        "p_value": 0.379158,
+        "topic": "Housing and urban economics"
+      },
+      {
+        "bh_q_value": 0.654685,
+        "difference_from_overall_rate": -0.017893,
+        "high_consensus_count": 19,
+        "high_consensus_direction_counts": {
+          "Agree": 15,
+          "Disagree": 4
+        },
+        "high_consensus_rate": 0.120253,
+        "mean_score": 0.435,
+        "median_score": 0.385,
+        "n": 158,
+        "p_value": 0.535651,
+        "topic": "Macroeconomics and monetary"
+      },
+      {
+        "bh_q_value": 0.923104,
+        "difference_from_overall_rate": -0.006202,
+        "high_consensus_count": 19,
+        "high_consensus_direction_counts": {
+          "Agree": 18,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.131944,
+        "mean_score": 0.541875,
+        "median_score": 0.565,
+        "n": 144,
+        "p_value": 0.897485,
+        "topic": "Health and social policy"
+      },
+      {
+        "bh_q_value": 0.923104,
+        "difference_from_overall_rate": -0.002662,
+        "high_consensus_count": 42,
+        "high_consensus_direction_counts": {
+          "Agree": 34,
+          "Disagree": 8
+        },
+        "high_consensus_rate": 0.135484,
+        "mean_score": 0.493548,
+        "median_score": 0.51,
+        "n": 310,
+        "p_value": 0.923104,
+        "topic": "International trade and globalization"
+      }
+    ],
+    "fine_topics": [
+      {
+        "bh_q_value": 0.106527,
+        "difference_from_overall_rate": -0.070119,
+        "high_consensus_count": 10,
+        "high_consensus_direction_counts": {
+          "Agree": 10
+        },
+        "high_consensus_rate": 0.068027,
+        "mean_score": 0.424082,
+        "median_score": 0.36,
+        "n": 147,
+        "p_value": 0.006786,
+        "topic": "Industrial policy"
+      },
+      {
+        "bh_q_value": 0.106527,
+        "difference_from_overall_rate": 0.041592,
+        "high_consensus_count": 55,
+        "high_consensus_direction_counts": {
+          "Agree": 52,
+          "Disagree": 3
+        },
+        "high_consensus_rate": 0.179739,
+        "mean_score": 0.526993,
+        "median_score": 0.525,
+        "n": 306,
+        "p_value": 0.015218,
+        "topic": "Political economy"
+      },
+      {
+        "bh_q_value": 0.106527,
+        "difference_from_overall_rate": 0.040425,
+        "high_consensus_count": 60,
+        "high_consensus_direction_counts": {
+          "Agree": 55,
+          "Disagree": 5
+        },
+        "high_consensus_rate": 0.178571,
+        "mean_score": 0.519911,
+        "median_score": 0.53,
+        "n": 336,
+        "p_value": 0.013797,
+        "topic": "Public finance"
+      },
+      {
+        "bh_q_value": 0.232103,
+        "difference_from_overall_rate": 0.046469,
+        "high_consensus_count": 36,
+        "high_consensus_direction_counts": {
+          "Agree": 28,
+          "Disagree": 8
+        },
+        "high_consensus_rate": 0.184615,
+        "mean_score": 0.506,
+        "median_score": 0.52,
+        "n": 195,
+        "p_value": 0.0515,
+        "topic": "Taxation"
+      },
+      {
+        "bh_q_value": 0.232103,
+        "difference_from_overall_rate": -0.035956,
+        "high_consensus_count": 28,
+        "high_consensus_direction_counts": {
+          "Agree": 27,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.10219,
+        "mean_score": 0.453832,
+        "median_score": 0.425,
+        "n": 274,
+        "p_value": 0.055263,
+        "topic": "Financial regulation"
+      },
+      {
+        "bh_q_value": 0.368452,
+        "difference_from_overall_rate": -0.043209,
+        "high_consensus_count": 15,
+        "high_consensus_direction_counts": {
+          "Agree": 14,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.094937,
+        "mean_score": 0.463228,
+        "median_score": 0.455,
+        "n": 158,
+        "p_value": 0.105272,
+        "topic": "Energy"
+      },
+      {
+        "bh_q_value": 0.396289,
+        "difference_from_overall_rate": 0.036457,
+        "high_consensus_count": 33,
+        "high_consensus_direction_counts": {
+          "Agree": 32,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.174603,
+        "mean_score": 0.518889,
+        "median_score": 0.51,
+        "n": 189,
+        "p_value": 0.132096,
+        "topic": "Labor markets"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": -0.045838,
+        "high_consensus_count": 6,
+        "high_consensus_direction_counts": {
+          "Agree": 6
+        },
+        "high_consensus_rate": 0.092308,
+        "mean_score": 0.533385,
+        "median_score": 0.54,
+        "n": 65,
+        "p_value": 0.35419,
+        "topic": "COVID/pandemic policy"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": -0.042256,
+        "high_consensus_count": 7,
+        "high_consensus_direction_counts": {
+          "Agree": 6,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.09589,
+        "mean_score": 0.483836,
+        "median_score": 0.48,
+        "n": 73,
+        "p_value": 0.379158,
+        "topic": "Housing/urban policy"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": 0.038324,
+        "high_consensus_count": 6,
+        "high_consensus_direction_counts": {
+          "Agree": 5,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.176471,
+        "mean_score": 0.581471,
+        "median_score": 0.63,
+        "n": 34,
+        "p_value": 0.454506,
+        "topic": "Immigration"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": -0.025364,
+        "high_consensus_count": 15,
+        "high_consensus_direction_counts": {
+          "Agree": 14,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.112782,
+        "mean_score": 0.465113,
+        "median_score": 0.45,
+        "n": 133,
+        "p_value": 0.423175,
+        "topic": "Climate/environment"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": -0.018975,
+        "high_consensus_count": 23,
+        "high_consensus_direction_counts": {
+          "Agree": 22,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.119171,
+        "mean_score": 0.43886,
+        "median_score": 0.4,
+        "n": 193,
+        "p_value": 0.491301,
+        "topic": "Banking"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": -0.018355,
+        "high_consensus_count": 23,
+        "high_consensus_direction_counts": {
+          "Agree": 20,
+          "Disagree": 3
+        },
+        "high_consensus_rate": 0.119792,
+        "mean_score": 0.459583,
+        "median_score": 0.42,
+        "n": 192,
+        "p_value": 0.490747,
+        "topic": "Antitrust/competition"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": -0.017893,
+        "high_consensus_count": 19,
+        "high_consensus_direction_counts": {
+          "Agree": 15,
+          "Disagree": 4
+        },
+        "high_consensus_rate": 0.120253,
+        "mean_score": 0.435,
+        "median_score": 0.385,
+        "n": 158,
+        "p_value": 0.535651,
+        "topic": "Monetary policy"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": -0.015952,
+        "high_consensus_count": 49,
+        "high_consensus_direction_counts": {
+          "Agree": 46,
+          "Disagree": 3
+        },
+        "high_consensus_rate": 0.122195,
+        "mean_score": 0.4902,
+        "median_score": 0.49,
+        "n": 401,
+        "p_value": 0.278823,
+        "topic": "Growth/productivity"
+      },
+      {
+        "bh_q_value": 0.706,
+        "difference_from_overall_rate": 0.012433,
+        "high_consensus_count": 39,
+        "high_consensus_direction_counts": {
+          "Agree": 32,
+          "Disagree": 7
+        },
+        "high_consensus_rate": 0.150579,
+        "mean_score": 0.492317,
+        "median_score": 0.46,
+        "n": 259,
+        "p_value": 0.537905,
+        "topic": "Fiscal policy"
+      },
+      {
+        "bh_q_value": 0.751054,
+        "difference_from_overall_rate": 0.016493,
+        "high_consensus_count": 15,
+        "high_consensus_direction_counts": {
+          "Agree": 15
+        },
+        "high_consensus_rate": 0.154639,
+        "mean_score": 0.526392,
+        "median_score": 0.53,
+        "n": 97,
+        "p_value": 0.64376,
+        "topic": "Inequality/redistribution"
+      },
+      {
+        "bh_q_value": 0.751054,
+        "difference_from_overall_rate": -0.010805,
+        "high_consensus_count": 34,
+        "high_consensus_direction_counts": {
+          "Agree": 27,
+          "Disagree": 7
+        },
+        "high_consensus_rate": 0.127341,
+        "mean_score": 0.470899,
+        "median_score": 0.46,
+        "n": 267,
+        "p_value": 0.612064,
+        "topic": "International economics"
+      },
+      {
+        "bh_q_value": 0.780138,
+        "difference_from_overall_rate": 0.011204,
+        "high_consensus_count": 23,
+        "high_consensus_direction_counts": {
+          "Agree": 18,
+          "Disagree": 5
+        },
+        "high_consensus_rate": 0.149351,
+        "mean_score": 0.514221,
+        "median_score": 0.53,
+        "n": 154,
+        "p_value": 0.705839,
+        "topic": "Trade"
+      },
+      {
+        "bh_q_value": 0.886162,
+        "difference_from_overall_rate": 0.004711,
+        "high_consensus_count": 8,
+        "high_consensus_direction_counts": {
+          "Agree": 8
+        },
+        "high_consensus_rate": 0.142857,
+        "mean_score": 0.52125,
+        "median_score": 0.56,
+        "n": 56,
+        "p_value": 0.843964,
+        "topic": "Education"
+      },
+      {
+        "bh_q_value": 0.886968,
+        "difference_from_overall_rate": 0.002205,
+        "high_consensus_count": 16,
+        "high_consensus_direction_counts": {
+          "Agree": 15,
+          "Disagree": 1
+        },
+        "high_consensus_rate": 0.140351,
+        "mean_score": 0.544035,
+        "median_score": 0.585,
+        "n": 114,
+        "p_value": 0.886968,
+        "topic": "Healthcare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+Last Name,First Name,"Although the reported volatility of asset values in private markets (private equity, buyouts, and venture capital) is lower than that of comparable assets in public markets, their true volatility is broadly similar or greater.",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.,"Since the global financial crisis, the realized returns on private equities have measurably exceeded the returns on public equities.",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.
+Campbell,John,Agree,7,"Reported private equity volatility is understated by imperfect marking to market, which lowers volatility particularly when downturns are short-lived.  I believe this effect is strong enough that true private equity returns are as volatile as public returns.",Uncertain,3,"This was perhaps true before the market downturn in 2022, but smoothing in private equity has concealed the extent of private equity losses in 2022 which are yet to be fully realized."
+Cochrane,John,Strongly Agree,8,"Privately held assets (and real estate) are not marked to market. Market valuations change quickly. To some extent that's the point: ""volatility laundering"" or ""beta laundering"" allows investors to ignore valuation changes, some of which mean revert. ",Uncertain,8,"If privately held hide volatility by not marking to market, it's hard to know what performance is, isn't it? After 14 years we have some data, others will review better. But we also need to control for risk characteristics, which, per first question, is hard. "
+Cornelli,Francesca,Agree,9,There is smoothing in the adjustment of the asset values,Agree,9,However PE returns have been decreasing towards the stock market values
+Diamond,Douglas,Did Not Answer,,,Did Not Answer,,
+Duffie,Darrell,Strongly Agree,9,,Disagree,9,"Important qualification: I am addressing the returns to non-PE managers, meaning the limited partners. The returns to PE managers (general attends) likely exceed risk-adjusted returns on exchange traded equities, by a lot. "
+Eberly,Janice,Agree,4,"Private asset values are opaque and vary in leverage, liquidity, and risk to public markets, so the reported data are not comparable. Adjustments for these factors raise the estimated risk of private assets.",Agree,5,"Reported returns to PE have been higher than public equity, though the gap has declined and the benchmark for comparable public equity is the subject of debate."
+Gabaix,Xavier,Did Not Answer,,,Did Not Answer,,
+Goldstein,Itay,Agree,9,,Uncertain,6,
+Graham,John,Uncertain,4,,Uncertain,5,
+Harvey,Campbell,Strongly Agree,9,These illiquid assets are not marked to market regularly. Low vol is a mirage. But it is not just vol. Salespeople will say that correlations are low and this is a great diversifier. Reported correlation is low for the same reason. False information used to hype private markets. ,Disagree,8,
+Hirshleifer,David,No Opinion,,,No Opinion,,
+Hong,Harrison,Agree,8,Fundamentals of private equity is likely similar to public equity. Private equity's lower volatility most likely reflect lack of transparent prices.,Agree,6,Performance has been higher by 50bps annualized according to recent reports/surveys. 
+Jiang,Wei,Agree,8,,Uncertain,6,
+Kaplan,Steven,Agree,6,,Strongly Agree,9,Strongly true for buyout and venture in the Burgiss data set.
+Kashyap,Anil,Agree,5,See Cliff Asness's twitter account for details ,Uncertain,3,
+Koijen,Ralph,Did Not Answer,,,Did Not Answer,,
+Kuhnen,Camelia,No Opinion,,,Disagree,5,
+Lo,Andrew,Did Not Answer,,,Did Not Answer,,
+Lowry,Michelle,Strongly Agree,7,Uncertainty related to underlying fundamentals is higher for riskier companies. Many companies within this category of private firms - including for example VC-backed startups - are extremely risky.,Agree,7,"There are two caveats to this: First, reflecting the higher Beta of VC funds (compared to buyout funds), returns of VC funds tend to be higher. Second, overall realized returns are much higher than net of fee returns obtained by investors."
+Ludvigson,Sydney,No Opinion,,,No Opinion,,
+Maggiori,Matteo,No Opinion,,It seems plausible due to assets not being marked to market.,No Opinion,,
+Matvos,Gregor,Did Not Answer,,,Did Not Answer,,
+Moskowitz,Tobias,Strongly Agree,10,"Private equity is typically more levered than public equity, having a beta greater than one, and on average having characteristics that are associated with higher volatility in public markets. Hence, one should expect PE to have at least as high, and probably higher, volatility.",Disagree,8,"Adjusting for beta, not clear PE has better average returns. However, there might be an illiquidity premium, but that illiquidity also has some benefit -- the ability to smooth reported returns -- which could lead to an illiquidity discount. The evidence is not clear."
+Nagel,Stefan,Agree,8,"There is plenty of evidence that reported PE valuations adjustments are delayed and smoothed, which hides volatility. There is no economic reason why values of firms in PE firms should have different volatility than values of comparable publicly traded firms. ",Uncertain,8,"Perhaps yes, but the answer depends substantially on the discount one applies to current valuations to adjust for the lack of adjustment to recent declines in public market equity values. "
+Parker,Jonathan,Agree,7,"Smaller assets are more volatile, and private markets typically hold smaller assets. In private markets, there are incentives to report less volatility; accounting and lack of market prices permit it. e.g. pension and endowment returns are smoothed versions of underlying returns.",No Opinion,,
+Parlour,Christine,Agree,8,There are obviously measurement/observation problems. There are substantial differences in the way in which prices are determined.,Uncertain,5,
+Philippon,Thomas,Agree,6,,Uncertain,3,
+Puri,Manju,Did Not Answer,,,Did Not Answer,,
+Roberts,Michael,Uncertain,5,Don't know the data.,Uncertain,5,Don't know the data and risk-adjustment is tricky with non-tradeable assets.
+Sapienza,Paola,Uncertain,5,"Hotly debated topic, mostly due to the opacity of data (and who provides them). Both results are found in the literature; even KKR in a recent paper has argued that volatility is underestimated in PE. The question is by how much? ",Agree,4,"Weakly agree, the answer depends on which data are used, what vintage and it is certainly too early to determine the past two years PME for PE, given that many recent vintages will not come to fruition for a while. The academic literature has serious data issues to nail this"
+Seru,Amit,Strongly Agree,7,"With the kinds of investments undertaken, it’s a given ",Uncertain,2,
+Stambaugh,Robert,No Opinion,,,No Opinion,,
+Starks,Laura,Did Not Answer,,,Did Not Answer,,
+Stein,Jeremy,Strongly Agree,9,,Uncertain,5,
+Stroebel,Johannes,Agree,5,"More relevant than the volatility are perhaps the risk exposures, which seem substantial for most PE funds. ",Disagree,4,"Again, accounting for risk exposures, they don't seem to do all that well: ""We find that the average PE fund creates little value for its LPs after accounting for a broader spectrum of risk."" (Gupta and van Nieuwerburgh, JF 2021)"
+Sufi,Amir,Did Not Answer,,,Did Not Answer,,
+Titman,Sheridan,Agree,8,,No Opinion,,It is very difficult to precisely measure the risks and returns of private equity investments.  
+Van Nieuwerburgh,Stijn,Strongly Agree,8,"Lower diversification, higher risk activities (smaller, earlier-stage, growth companies, riskier real estate investments) result in more underlying risk than traditional public equity investments which involve (diversified baskets of) larger, more stable firms.",Disagree,8,"Raw returns have been similar, but risk-adjusted returns have been lower for private investments. They key is to properly adjust for (the many different sources of) risk. "
+Werner,Ingrid,No Opinion,,,No Opinion,,
+Whited,Toni,Agree,7,,Uncertain,2,

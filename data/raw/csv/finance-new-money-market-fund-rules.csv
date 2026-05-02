@@ -1,0 +1,44 @@
+Last Name,First Name,"New Money Market Fund (MMF) Rules: The SEC adopted amendments to the MMF rules, including a new mandatory liquidity fee for institutional prime and tax-exempt funds. The liquidity fee would trigger when daily net redemptions exceed five percent and when the costs associated with such redemptions are more than de minimus. https://www.sec.gov/news/press-release/2023-129
+
+
+The new liquidity fee will substantially reduce the likelihood of runs on MMFs.",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.,The new liquidity fee will cause a substantial shift of assets under management from institutional prime and tax-exempt funds to government MMFs (which are exempt from the fees).,Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.
+Campbell,John,Uncertain,4,"The liquidity fee will force redeeming shareholders to pay liquidity costs, but only once redemptions are already substantial.  There may still be an incentive to run before that threshold is reached. ",Disagree,4,"There are already known to be liquidity problems with prime and tax-exempt funds in crisis times, and that has not eliminated the attractiveness of these funds.  The liquidity fee is probably not a large enough change to do so."
+Cochrane,John,Uncertain,6,"I'd go with ""reduce"" but not ""substantially."" We'll see what goes wrong. The rule has too much discretion. Management will never want to put in fees or gates. Has to be totally automatic. ",Disagree,8,"Historically, people forget that banks can fail and chase higher interest rates. They will do that again. In addition, government has shown it will always bail out MMMF in times of trouble. 
+"
+Cornelli,Francesca,Did Not Answer,,,Did Not Answer,,
+Diamond,Douglas,Uncertain,5,"Investors will not know if there will be 5% withdrawals when they choose to withdraw, so direct deterrence is small and there remain incentives to get out ahead of a future 5% day.  Fess will protect remaining holders who do not withdraw, which could reduce the incentive to run. ",Agree,8,The 5% fee possibility means that these funds are probably not treated as cash for corporate treasurers.  This will move more coprporations to government MMFs. 
+Duffie,Darrell,Strongly Disagree,10,"If investors think the fee will soon be imposed, many will want to liquidate before the fee is triggered, generating strategic complementarity. That's a form of ""run."" We saw that in the previous design, with gates. This is not necessarily a disaster; that depends on the details.",Strongly Agree,10,Many large MMF fund investors prize continual low-cost access to their funds over the slightly higher expected returns offered by prime funds relative to government-only funds.
+Eberly,Janice,Did Not Answer,,,Did Not Answer,,
+Gabaix,Xavier,Did Not Answer,,,Did Not Answer,,
+Goldstein,Itay,Uncertain,10,,Uncertain,10,
+Graham,John,Did Not Answer,,,Did Not Answer,,
+Harvey,Campbell,Agree,7,"It will likely reduce probability but not clear by how much. Further, not clear it is the best mechanism (though  better than swing pricing). Note it is not just a fee. More impt. was the increase in liquid daily assets from 10 to 25%. Also, adjustment in weekly liquidity. ",Agree,8,"The fee reduces the expected return and as such there should be shift in allocation. Something had to happen given bailouts in 2008 and 2020. Gov had a choice of continuing bailouts, imposing more regs, or letting future MMFs fail. The first option (bailouts) is the worst. "
+Hirshleifer,David,Uncertain,1,,Uncertain,1,
+Hong,Harrison,Uncertain,8,Hard to calibrate fee size to stop runs,Uncertain,6,Potentially but hard to predict investor’s elasticities in face of fees
+Jiang,Wei,Agree,9,,Agree,9,
+Kaplan,Steven,Uncertain,3,,Disagree,4,
+Kashyap,Anil,Agree,5,"Not quite swing pricing, but seems similar enough to be a deterrent for people that choose to stay in the funds.  ",Agree,3,"Creates an incentive and that is a feature not a bug, the question is whether the people who are sensitive to this have already left.  "
+Koijen,Ralph,Did Not Answer,,,Did Not Answer,,
+Kuhnen,Camelia,Uncertain,2,,Uncertain,3,
+Lo,Andrew,Did Not Answer,,,Did Not Answer,,
+Lowry,Michelle,Disagree,6,"There is a risk that in a period of severe market disruption, institutional investors will withdraw their funds earlier than they otherwise would have. There is an increased incentive to withdraw ahead of others in order to avoid the new fee ",Disagree,6,"My expectation is that investors would only move money out of these funds during a period of pending market disruption. During normal times, the probability of a severe negative shock that would cause 5% withdrawals is quite low"
+Ludvigson,Sydney,Uncertain,10,,Uncertain,10,
+Maggiori,Matteo,Uncertain,1,,Uncertain,1,
+Matvos,Gregor,Did Not Answer,,,Did Not Answer,,
+Moskowitz,Tobias,Did Not Answer,,,Did Not Answer,,
+Nagel,Stefan,Disagree,5,There is still an incentive to run on the fund before the threshold is reached at which the liquidity fee is imposed. ,Disagree,5,
+Parker,Jonathan,Agree,6,"The new regulation clearly makes withdrawals more costly during times of market stress, so likely helps stabilize MMMF funding during times of fear about widespread default on high-quality short-term debt. But the threshold itself creates some  fund-level risk of smaller runs.",Agree,8,And a shift to short-term debt funds that are not subject to this regulation.
+Parlour,Christine,Agree,8,,Strongly Agree,9,
+Philippon,Thomas,Uncertain,5,,Disagree,7,
+Puri,Manju,Agree,7,,Agree,9,
+Roberts,Michael,No Opinion,,,No Opinion,,
+Sapienza,Paola,Did Not Answer,,,Did Not Answer,,
+Seru,Amit,Uncertain,5,,Uncertain,5,
+Stambaugh,Robert,Disagree,3,,Disagree,5,
+Starks,Laura,Did Not Answer,,,Did Not Answer,,
+Stein,Jeremy,Uncertain,6,,Agree,7,
+Stroebel,Johannes,Did Not Answer,,,Did Not Answer,,
+Sufi,Amir,Did Not Answer,,,Did Not Answer,,
+Titman,Sheridan,No Opinion,,,No Opinion,,
+Van Nieuwerburgh,Stijn,Disagree,5,"Prior to crossing the 5% threshold, the run incentive will be amplified since investors will want to get their money out before others. We need to cross this threshold before getting to the region where run incentives are lower. ",Uncertain,5,"Prime institutional funds already got a lot smaller after the 2016 reform from fixed to floating NAV. Hard to say how much demand will shrink further following these changes, but probably somewhat if returns on prime funds fall, bringing them closer to those on govt funds. "
+Whited,Toni,No Opinion,,,No Opinion,,

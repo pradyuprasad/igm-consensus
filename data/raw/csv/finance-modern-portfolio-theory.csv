@@ -1,0 +1,46 @@
+Last Name,First Name,"Harry Markowitz, the Nobel Prize-winning pioneer of modern portfolio theory, passed away earlier this year:
+
+https://afajof.org/news/in-memoriam-harry-markowitz-past-president-of-the-american-finance-association-1927-2023/
+
+
+Application of the principles of modern portfolio theory allows investors in practice to achieve substantial improvements in the risk-expected return trade-off relative to naive strategies such as equal-weighting that do not take account of return covariances.",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.,Widespread adoption of modern portfolio theory by investors has substantially improved the efficiency of capital allocation in financial markets.,Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.
+Campbell,John,Strongly Agree,9,"Although there are pitfalls in using historical covariances to predict future covariances, thoughtful application of modern portfolio theory can indeed improve the risk-return tradeoff.",Agree,6,"This is a tricky question because passive investors opt out of price discovery; however, active investors using modern portfolio theory do improve the efficiency of capital allocation - aided by the analytical tools and cheap trading made possible by information technology."
+Cochrane,John,Agree,8,"Actual mean-variance calculations don't work well in practice.  But portfolio theory tells us all to diversify, and what that means exactly. Investors today, via funds, hold portfolios that are much better diversified than the individual stocks they held when Markowitz wrote. ",Uncertain,5,"Investors haven't adopted portfolio theory. (Some hedge funds do, but not most institutions and individuals). Plus, it was never about investment or market efficiency. "
+Cornelli,Francesca,Did Not Answer,,,Did Not Answer,,
+Diamond,Douglas,Agree,7,,Agree,5,
+Duffie,Darrell,Disagree,10,"Surprisingly, empirical evidence suggests that equal-weighted portfolios have done about as well as market weights, which are Markowitz-optimal in equilibrium. But equal weights are obviously not consistent with market clearing (See Sharpe)! ",Strongly Agree,10,"Before Markowitz and Sharpe finally took a grip on practice (with diversification and index funds), many investors paid large amounts of transactions costs to do ""stock picking,"" which is clearly risk-return inferior except for investors with excellent private information."
+Eberly,Janice,Strongly Agree,9,,Strongly Agree,9,
+Fama,Eugene,Strongly Agree,10,"In the early 1950s Markowitz laid the foundations for portfolio selection. Building on Markowitz,  Sharpe (mid-1960s) produced the first asset pricing model. The work on market efficiency in the 1960s and thereafter provided empirical justification for passive investing.   ",Uncertain,1,
+Gabaix,Xavier,Strongly Agree,9,,Agree,7,
+Goldstein,Itay,Agree,7,,Strongly Agree,7,
+Graham,John,Strongly Agree,8,,Agree,6,
+Harvey,Campbell,Agree,8,"Correlations should be taken into account in diversifying portfolios. However, in applying MPT, we need to be careful. 1952 paper assumes we exactly know expected returns & covariances. It also assumes variance=risk p92. It is impt to take uncertainty & other risks into account. ",Agree,8,"It is hard to measure. However, in my experience in talking to very large allocators such as pensions and SWFs, they focus a lot on correlation structure. It is hard to measure ""substantial"" given we don't have a lot of examples of funds ignoring MPT. "
+Hirshleifer,David,Strongly Agree,8,,Strongly Agree,8,
+Hong,Harrison,Disagree,6,Studies go back on forth on this issue,Uncertain,5,no studies on this issue
+Jiang,Wei,Strongly Agree,9,,Strongly Agree,9,
+Kaplan,Steven,Agree,9,,Agree,2,
+Kashyap,Anil,Agree,5,Important to remember what kind of advice people were following before him,Uncertain,3,So many other factors matter for this. 
+Koijen,Ralph,Strongly Agree,7,"While it is challenging to estimate covariances and expected returns using historical return data alone, using characteristics  helps to outperform the 1/N benchmark (Section 6.1 of the first paper; Table 1 of the second paper; Table 5 of the third paper)",Agree,7,
+Kuhnen,Camelia,Strongly Agree,10,,Strongly Agree,10,
+Lo,Andrew,Did Not Answer,,,Did Not Answer,,
+Lowry,Michelle,Strongly Agree,8,,Disagree,6,
+Ludvigson,Sydney,Agree,9,,Agree,8,
+Maggiori,Matteo,Agree,8,,Agree,8,
+Matvos,Gregor,Did Not Answer,,,Did Not Answer,,
+Moskowitz,Tobias,Strongly Agree,10,"Theoretically this is true. When having to estimate inputs with substantial error, the results can be noisy, but innovations in how to improve estimation have made this a big success. ",Agree,4,"Should be true, but as a field we have not done a great job at measuring resource allocation. "
+Nagel,Stefan,Agree,9,"There are a variety of practical hurdles (e.g., estimation of means and covariance, non-tradable wealth) but an investor certainly benefits from applying the basic principles (e.g., that covariances matter for portfolio risk, not individual asset variances) ",Uncertain,6,"Adoption should have helped ensure that risk that is in principle diversifiable doesn't command risk premia, which in turn should improve capital allocation efficiency, but I'm not sure there is empirical evidence that this has been a substantial effect. "
+Parker,Jonathan,Strongly Agree,10,,Strongly Agree,10,
+Parlour,Christine,Uncertain,8,"In practice many ""optimized"" portfolios are subject to constraints (rebalancing costs/short selling). Depending on the number of constraints, outcomes will look like the simple heuristic.",Strongly Agree,9,Portfolio theory led to the design of ETFs and mutual funds which increased participation and capital market depth. 
+Philippon,Thomas,Agree,7,,Disagree,7,
+Puri,Manju,Did Not Answer,,,Did Not Answer,,
+Roberts,Michael,Strongly Agree,9,,Agree,7,Question is a little ambiguous.
+Sapienza,Paola,Agree,6,"It  is an important framework but there are many limitations based on the assumptions (returns have to be normally distributed, investors allocate all portfolio assets to a single timeframe, past data predict future data). These assumptions are often not verified in practice",Agree,2,"For the reasons, that I exposed in the previous answer, in practice the assumptions are not satisfied, so empirically the results of the model depend on those assumptions being met or violated. "
+Seru,Amit,Strongly Agree,9,,Agree,8,
+Stambaugh,Robert,Strongly Agree,10,"Key points of Markowitz (1952, JF): Consider the E-V tradeoff (vs just max E), diversify to reduce V, and covariance's role in V makes diversifying across industries important.   Equal vs non-equal weights is a lesser point, missing the broader message of modern portfolio theory.",Uncertain,5,"Index funds apply the advice of Markowitz (1952, JF): diversify, especially across industries.  Active quant funds often make covariance-conscious portfolio decisions.   Net effects on price discovery and capital allocation seem hard to identify.."
+Starks,Laura,Strongly Agree,8,,Strongly Agree,8,
+Stein,Jeremy,Strongly Agree,9,,Uncertain,5,
+Stroebel,Johannes,Strongly Agree,5,,Agree,3,
+Sufi,Amir,Agree,5,,Uncertain,5,"I am not sure what ""efficiency"" means in this statement."
+Titman,Sheridan,Agree,10,,Disagree,10,The modern portfolio approach has probably improved the informational efficiency of markets but the effect on capital allocation is likely to be modest.
+Van Nieuwerburgh,Stijn,Uncertain,6,The equal weight 1/N rule has been shown to be hard to beat,Agree,7,Consideration of the best risk-adjusted investment opportunities in capital budgeting should have improved the efficient allocation of capital
+Whited,Toni,Agree,6,,Uncertain,1,

@@ -1,0 +1,43 @@
+Last Name,First Name,"Despite the empirical failures of the Capital Asset Pricing Model (CAPM) in explaining expected stock returns, a shareholder-value maximizing publicly-traded firm should still use the CAPM to calculate the cost of equity in capital budgeting.",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.,The equity risk premium that U.S. publicly traded firms should use in cost of equity calculations in April 2023 is above 6%.,Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.
+Campbell,John,Disagree,8,"While the CAPM may be a reasonable first approximation, the cost of capital is better described empirically by a multi-factor Fama-French-style model or by an intertemporal CAPM that distinguishes between cash-flow risk, discount risk, and variance risk.",Disagree,6,"A dynamic steady-state model (Gordon growth model) suggests the long-term expected real stock return is currently around 7%, but the 20-year TIPS yield is above 1% implying an equity premium slightly below 6%."
+Cochrane,John,Disagree,8,"For most projects, comparable are better than CAPM. To price a burger, look at the restaurant next door or calculate cost of raising a cow. Beyond CAPM failures, we don't know betas or expected returns.",Disagree,7,"Most guesses of the equity premium (stocks over bonds) are lower than 6% these days, hovering more in the 3% area. The postwar period was pretty lucky, and growth has slowed. Still, stocks are so volatile that the standard error will always be high. "
+Cornelli,Francesca,Did Not Answer,,,Did Not Answer,,
+Diamond,Douglas,Did Not Answer,,,Did Not Answer,,
+Duffie,Darrell,Uncertain,7,"There is empirical support for more complicated models with more factors. Introducing more complex models into practice, despite the absence of a strong theoretical basis or empirical consensus, and then adjusting over time could be beneficial, but adoption is difficult.",Disagree,2,"Estimating this risk premium is considered difficult. Agreeing with ""higher than 6%"" would seem over-confident to me. "
+Eberly,Janice,Did Not Answer,,,Did Not Answer,,
+Gabaix,Xavier,Disagree,8,,Disagree,6,
+Goldstein,Itay,Uncertain,8,,Disagree,7,
+Graham,John,Disagree,7,,Agree,1,
+Harvey,Campbell,Disagree,8,"Given we don't know the true cost of capital, it is better to look at a variety of methods (and the CAPM should be one of them). It is well known that the CAPM omits certain key features like downside risk. In practice, companies use discount rates far above the CAPM (see link).",Uncertain,8,"Most companies use a risk premium above 6% - at least from the survey evidence. This could reflect capital constraints, a preference for projects with very large upsides, etc. Just because this is how companies operate, does not mean it is how they should operate (see link)."
+Hirshleifer,David,Uncertain,5,,Uncertain,5,
+Hong,Harrison,Disagree,8,Cost of capital fluctuates over time potentially due to mispricings and firms should rationally optimize investments based on this.,Agree,6,Historically equity risk premium is about 6% over lots of macroeconomic environments.
+Jiang,Wei,Agree,7,,Disagree,8,
+Kaplan,Steven,Agree,3,"Good place to start because Delaware courts will expect you to.  However, in my experience, betas are sometimes unreliable / problematic.",Uncertain,8,Forward equity risk premium is always very hard to know.  6% is a good place to start.
+Kashyap,Anil,Uncertain,3,"It is what I teach, but mostly because even if you do something fancier it usually won't be pivotal.  Getting the cash flows for capital budgeting is usually way harder than getting the discount rate and it is easy to cross check with other assumptions. ",Uncertain,7,"How could we know if it is really 5 instead of 7, given the volatility in the data.  Plus see my other comment on discount rates more generally. "
+Koijen,Ralph,Disagree,4,"See for instance
+https://academic.oup.com/rfs/article/34/1/1/5836312
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3827511",Disagree,4,
+Kuhnen,Camelia,Agree,8,There is no other model that is the clear alternative to the CAPM that is taught to business folks.,Disagree,7,
+Lo,Andrew,Did Not Answer,,,Did Not Answer,,
+Lowry,Michelle,Disagree,7,"Given the failure of the CAPM, at a minimum a firm should do sensitivity using alternative models (e.g., Fama-French). This is particularly relevant for firms in size - BM categories where CAPM failures are particularly large",Disagree,5,
+Ludvigson,Sydney,Agree,5,"It could still be used as a benchmark. Despite the fact that it doesn't work well empirically, it's not obvious what model to replace it with. ",Uncertain,8,
+Maggiori,Matteo,Disagree,5,,Disagree,6,
+Matvos,Gregor,Did Not Answer,,,Did Not Answer,,
+Moskowitz,Tobias,Uncertain,9,"The CAPM fails in the short run, but looks much better over longer horizons (Moskowitz and Stambaugh (2022), Cho and Polk (2022)). So as a long term estimate of the cost of capital it should fare better, but it tends to miss short-term info which could be mispricing. ",Strongly Disagree,9,"6% is high and based on ex post realizations from equity markets that did well. Moreover, theory has a tough time justifying such a premium. Plus, looking at current valuations, it’s hard to justify a large premium today going forward. "
+Nagel,Stefan,Agree,8,"Despite the empirical failures in explaining average stock returns in historical data, the CAPM may still deliver the right cost of equity for long-run value maximization (Stein, 1996, ""Rational capital budgeting in an irrational world"", Journal of Business.) ",Disagree,9,Stock market valuation levels are too high relative to long-term real interest rates for a 6% equity premium to be plausible. 
+Parker,Jonathan,Agree,9,"The basic CAPM, which uses beta from the return on the stock market, provides a good measure of the cost of equity but must be used smartly and can be improved upon, where critical decisions include time horizon and frequency, and improvements use broader measures of returns.",Strongly Disagree,7,"The price dividend ratio which has been a good predictor of future returns suggests much lower returns going forward at the moment, as do bounds constructed from the Ian Martin bounds on expected returns."
+Parlour,Christine,Uncertain,8,"Multi-factor models would lead to more accurate estimates.  However, the correct factors to use is opaque.",Strongly Disagree,8,"Although the estimates of the equity premium have changed over time, a lower number seems appropriate. "
+Philippon,Thomas,Agree,7,,Uncertain,5,
+Puri,Manju,Did Not Answer,,,Did Not Answer,,
+Roberts,Michael,Uncertain,9,"They should use the CAPM OR an alternative (e.g., implied cost of capital, multifactor) but they should use some financially grounded model.",Uncertain,10,I am sure that the data are noisy enough to make this conclusion suspicious and that alternatives below 6% are statistically plausible.
+Sapienza,Paola,Uncertain,4,"assuming dispersion and typical shareholder structure of the public corp. then I tend to agree in lack of better alternatives 
+",Uncertain,5,"We should still use an average historical difference, which is still probably between 5 and 7 percent for US "
+Seru,Amit,Uncertain,6,,Disagree,5,
+Stambaugh,Robert,Uncertain,9,"A case for yes can be made, as the sources of the empirical failures matter.",Uncertain,8,Above versus below is about even.  Key is to recognize the uncertainty. 
+Starks,Laura,Did Not Answer,,,Did Not Answer,,
+Stein,Jeremy,Uncertain,5,,Uncertain,5,
+Stroebel,Johannes,Did Not Answer,,,Did Not Answer,,
+Sufi,Amir,Uncertain,8,,Disagree,5,
+Titman,Sheridan,Agree,10,Its still probably the best heuristic available.,Strongly Disagree,10,I tend to tell the students to use about 5%.  One can justify a lower rate as well.  Its has declined over time as stock market participation has increased.
+Van Nieuwerburgh,Stijn,Disagree,7,"The company should use a risk-adjusted return that reflects its exposure to several sources of systematic risk, including market risk but also others (interest rate risk, size risk, value risk, profitability risk, etc.)",Uncertain,7,"The equity risk premium is very difficult to measure, even in long samples. Realized excess stock returns were high and bond yields were unusually low over the past 40 years, raising the realized excess return above the expected return going forward. 5-6% is about right."
+Whited,Toni,Strongly Disagree,7,,Disagree,5,

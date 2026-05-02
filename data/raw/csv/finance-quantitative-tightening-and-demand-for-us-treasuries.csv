@@ -1,0 +1,42 @@
+Last Name,First Name,"The Federal Reserve has begun quantitative tightening (QT) to reduce the size of its balance sheet. Fed holdings of Treasury securities have declined by $800 billion relative to the March 2020 peak. The Fed currently holds $4.9 trillion of Treasury securities, significantly larger than the $2.5 trillion holdings prior to the Covid pandemic. 
+
+A reduction in Fed holdings of Treasury securities measurably increases the interest rate on long-term U.S. Treasury bonds.",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.,A reduction in Fed holdings of Treasury securities measurably increases volatility in the Treasury market.,Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.
+Campbell,John,Uncertain,3,"Quantitative easing and tightening (QE & QT) affects the prices of less liquid securities, but may not have a measurable impact on Treasury bond prices.  The funding of leveraged hedge funds who hold Treasuries is likely a more important influence.",Disagree,4,"I do not see a direct effect on volatility since the Fed has not been ""making a market"" in Treasuries.  There could be an indirect effect if Treasury rates rise and leveraged investors dump Treasuries - but this is highly uncertain."
+Cochrane,John,Disagree,3,"Perhaps for a day or two. But when the Fed buys bonds it gives interest bearing reserves in return. Do people care about bonds vs. a big money market fund that holds bonds (the Fed)? Maybe, but static demand curves for different maturities makes little sense. ",Strongly Disagree,7,"How?  Even a static demand for maturities, so more ""supply"" lowers prices, doesn't naturally generate prices changing over time more quickly. Perhaps deep in the microstructure it's harder to speculate, but then trading profits should rise and more speculators/capital enters. "
+Cornelli,Francesca,Did Not Answer,,,Did Not Answer,,
+Diamond,Douglas,Agree,4,,Agree,5,
+Duffie,Darrell,Uncertain,10,"No doubt there is an effect. But is it quantitatively measurable? Just as it was difficult to measure the impact of QE, it will be hard to measure the impact of QT.",Uncertain,10,"Vol in the Treasury market comes from many sources, especially now. There is probably a positive impact from QT, but is it quantitatively measurable? Probably that will be hard to identify, econometrically."
+Eberly,Janice,Uncertain,6,"Evidence from QE suggests large asset purchases had the most impact when markets were disrupted (mortgages; QE1 compared to later). There is less evidence on QT, so this may be directionally correct, but causation/significance is not clear.",Uncertain,6,"Fed asset purchases reduced volatility during disruptions, such as March 2020, but there is less evidence on QT, or that it increased volatility.  QT has been largely predictable, and other market dynamics (increased Treasury supply, rate policy) confound identifying QT effects."
+Gabaix,Xavier,Strongly Agree,8,"Yes, even the aggregate bond market is inelastic (though less inelastic than the stock market, perhaps by a factor of ~25).",Agree,8,"In the transition, stochastic Fed purchases, or stochastic anticipations of those Fed purchases, will add volatility."
+Goldstein,Itay,Agree,6,,Uncertain,6,
+Graham,John,Agree,7,,Disagree,7,
+Harvey,Campbell,Agree,8,"When less demand, generally prices drop. However, there is a lot of stuff going on including: 1)less demand from foreign buyers; 2)higher inflation med-term expectations given reshoring etc.; 3)$620b gov interest service at average interest rate of 2.8%-so borrow to pay interest ",Uncertain,10,"The Fed distorted the market with its QE - and raised risk. Why was it necessary to do aggressive QE when unemployment was low, economy growing and the stock market at record highs?? We are paying the price now. QT might portend a more market-oriented environment-I am skeptical. "
+Hirshleifer,David,No Opinion,,,No Opinion,,
+Hong,Harrison,Agree,5,There is evidence of downward sloping demand curves.,Agree,5,Investors rightly would worry about the pace of tightening.
+Jiang,Wei,No Opinion,,,No Opinion,,
+Kaplan,Steven,Agree,2,,Uncertain,2,
+Kashyap,Anil,Agree,3,the evidence is less clear than i think many people assume. ,Uncertain,3,
+Koijen,Ralph,Uncertain,4,"While it's plausible that it has an impact on interest rates, estimating the causal impact of QT on long rates in a single country is challenging. ",Uncertain,4,"While it's plausible that it has an impact on interest rates, estimating the causal impact of QT on long rates in a single country is challenging. "
+Kuhnen,Camelia,Strongly Agree,9,,Uncertain,7,
+Lo,Andrew,Did Not Answer,,,Did Not Answer,,
+Lowry,Michelle,Agree,6,,Agree,6,
+Ludvigson,Sydney,Agree,8,,Uncertain,10,
+Maggiori,Matteo,Strongly Agree,8,,Uncertain,1,"It depends on whether it flattens or steepens the demand curve, and also how it impacts flows from other participants. Not obvious what the outcome is."
+Matvos,Gregor,Did Not Answer,,,Did Not Answer,,
+Moskowitz,Tobias,Did Not Answer,,,Did Not Answer,,
+Nagel,Stefan,Agree,5,"Existing estimates suggest that there may be measurable effect, but it's likely small. See, e.g., http://www.econ2.jhu.edu/People/Wright/bpeawright_writeup.pdf",Agree,5,"At least temporarily, there may be an effect on volatility, due to Treasury market plumbing issues, until the securities find their way into the portfolios of long-term holders.  "
+Parker,Jonathan,Agree,7,"QT changes the risks that are borne by government and so changes the pricing of  marketable government securities. Further, the people who directly and indirectly hold Treasury securities typically take time to re-balance to hold more securities so large QT sales reduce prices.",Disagree,6,There is little theoretical reason to believe this and less empirical evidence that it is true.
+Parlour,Christine,Uncertain,5,The optimal size of the balance sheet is an area of active research,Uncertain,5,Volatility is affected by the market's understanding of the action and fundamental frictions.
+Philippon,Thomas,Uncertain,3,,Agree,7,
+Puri,Manju,Agree,8,,Agree,6,
+Roberts,Michael,Agree,5,,Uncertain,5,
+Sapienza,Paola,Agree,7,long-term interest rates should increase as compensation to investors to lend for longer maturities,Uncertain,5,
+Seru,Amit,Uncertain,5,,Uncertain,5,
+Stambaugh,Robert,Uncertain,5,"There should be some effect, but I'm not sure one could isolate and thereby measure it.",Uncertain,7,Depends on how transparent and predictable the Fed would be about the course and extent of its tightening.
+Starks,Laura,Did Not Answer,,,Did Not Answer,,
+Stein,Jeremy,Agree,7,,Disagree,7,
+Stroebel,Johannes,Agree,4,,Uncertain,1,
+Sufi,Amir,Agree,5,,Agree,5,
+Titman,Sheridan,Agree,4,,Agree,3,
+Van Nieuwerburgh,Stijn,Strongly Agree,7,"FED is price inelastic buyer. Together with reduction in foreign central bank holdings and us domestic bank holdings, more price elastic buyers now must absorb a lot of new Treasury issuance. Higher yields result.",Agree,7,Fed purchases were predictable and the loss of that buyer leaves a more price sensitive and fickle fray of Treasury buyers.
+Whited,Toni,Uncertain,7,,Uncertain,3,

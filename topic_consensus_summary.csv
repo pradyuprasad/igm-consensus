@@ -1,0 +1,23 @@
+topic,comparable_statements,overwhelming_consensus_count,overwhelming_consensus_rate,median_confidence_weighted_score,mean_confidence_weighted_score,agree_count_at_or_above_0_90,disagree_count_at_or_above_0_90,uncertain_count_at_or_above_0_90
+Taxation,195,36,0.184615,0.520000,0.506000,28,8,0
+Political economy,306,55,0.179739,0.525000,0.526993,52,3,0
+Public finance,336,60,0.178571,0.530000,0.519911,55,5,0
+Immigration,34,6,0.176471,0.630000,0.581471,5,1,0
+Labor markets,189,33,0.174603,0.510000,0.518889,32,1,0
+Inequality/redistribution,97,15,0.154639,0.530000,0.526392,15,0,0
+Fiscal policy,259,39,0.150579,0.460000,0.492317,32,7,0
+Trade,154,23,0.149351,0.530000,0.514221,18,5,0
+Education,56,8,0.142857,0.560000,0.521250,8,0,0
+Healthcare,114,16,0.140351,0.585000,0.544035,15,1,0
+International economics,267,34,0.127341,0.460000,0.470899,27,7,0
+Growth/productivity,401,49,0.122195,0.490000,0.490200,46,3,0
+Monetary policy,158,19,0.120253,0.385000,0.435000,15,4,0
+Antitrust/competition,192,23,0.119792,0.420000,0.459583,20,3,0
+Banking,193,23,0.119171,0.400000,0.438860,22,1,0
+Climate/environment,133,15,0.112782,0.450000,0.465113,14,1,0
+Financial regulation,274,28,0.102190,0.425000,0.453832,27,1,0
+Housing/urban policy,73,7,0.095890,0.480000,0.483836,6,1,0
+Energy,158,15,0.094937,0.455000,0.463228,14,1,0
+COVID/pandemic policy,65,6,0.092308,0.540000,0.533385,6,0,0
+Industrial policy,147,10,0.068027,0.360000,0.424082,10,0,0
+Other,1,0,0.000000,0.680000,0.680000,0,0,0

@@ -1,0 +1,40 @@
+Last Name,First Name,"Since maturity transformation is an inherent feature of commercial banks' business model, some duration mismatch between assets and liabilities is unavoidable.",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.,"For the purposes of capital regulation, banks should be required to mark their holdings of Treasury and Agency securities to market at all times (even though their loans are not marked to market).",Confidence in this topic (10 being the highest).,Please explain your response in 280 characters or less.
+Campbell,John,Agree,5,"This is certainly true of the current model of commercial banking, but a shift to an alternative ""narrow banking"" model with minimal maturity mismatch is a realistic possibility in the coming decades.",Agree,7,"This change would reflect the liquidity of securities, and would encourage commercial banks to correctly trade off liquidity of securities versus hold-to-maturity accounting for less liquid loans."
+Cochrane,John,Did Not Answer,,,Did Not Answer,,
+Cornelli,Francesca,Did Not Answer,,,Did Not Answer,,
+Diamond,Douglas,Agree,8,"Short-term debt is a key liability product of financial intermediaries.  Even if they make floating rate loans or hedge some interest rate risk, there will remain a duration mismatch.  ",Strongly Agree,10,The reason for not marking everything to market is poor market estimates for illiquid assets.  Mark to market for treasuries assures that banks are not insolvent from pure interest rate risk while capital measures are strong.  This is correct even with deposit beta less than one.
+Duffie,Darrell,Disagree,9,"Maturity transformation is dominant in practice, not inherent. Other approaches, like PE, provide credit with stable long term funding.. Narrow banks could serve the needs of depositors safely and efficiently. Alternative approaches to banking might be worth consideration.",Agree,9,Frequent marking to market for purposes of maintaining adequate capital buffers would lead to fewer sudden realizations of capital shortfalls and fewer catastrophic failures. Disclosure to bank creditors and equity investors would improve. 
+Eberly,Janice,Did Not Answer,,,Did Not Answer,,
+Gabaix,Xavier,Did Not Answer,,,Did Not Answer,,
+Goldstein,Itay,Agree,10,,Uncertain,9,
+Graham,John,Did Not Answer,,,Did Not Answer,,
+Harvey,Campbell,Agree,5,"Maturity transformation is a feature of the ""current"" model. But the current model is not the only model. With social media, FedNow, and perhaps CBDCs, the run risk greatly increases. Narrow banks and investment trusts are a credible alternative - 90 years after the Chicago Plan.",Disagree,6,"1. Given accounting rules, banks do not hedge the HTM securities. 2. It is unfair to mark to market the HTM & not the liabilities. 3. There are other models that should be debated. Chicago Plan is one version. Blackstone's recent initiative is a hybrid that reduces bank risk."
+Hirshleifer,David,Agree,7,,Agree,5,
+Hong,Harrison,Did Not Answer,,,Did Not Answer,,
+Jiang,Wei,Strongly Agree,8,,Strongly Agree,6,
+Kaplan,Steven,Agree,5,,Uncertain,3,
+Kashyap,Anil,Strongly Agree,7,See the report explaining the rationale for the 2022 Nobel Prize,Strongly Agree,10,It is crazy to have securities that are liquid and regularly traded mismarked.  
+Koijen,Ralph,Disagree,6,"While the duration of banks' assets appears to exceed the duration of their liabilities, the opposite is true for life insurance companies (see the first link). The regulatory treatment of derivatives by insurance regulators may play a role (see the second link).",Agree,4,
+Kuhnen,Camelia,Disagree,8,banks need to hedge duration risk.,Agree,8,
+Lo,Andrew,Did Not Answer,,,Did Not Answer,,
+Lowry,Michelle,Agree,6,,Disagree,5,
+Ludvigson,Sydney,Agree,7,,Uncertain,10,
+Maggiori,Matteo,Strongly Agree,10,,Agree,3,"In general I favor marking to market all assets for which there is a readily accessible price. Treasuries being one of them. For other assets, best effort on estimating changes in market value. "
+Matvos,Gregor,Disagree,10,"Maturity transformation is an inherent feature of financial intermediation, but it does not need to take place in commercial banks. Even now, many commercial banks engage in originate to distribute, which reduces duration mismatch. Banking as a service also does not require it. ",Uncertain,10,"This is not a first order issue, especially since even marked-to-market security losses do not affect regulatory capital for most banks. Banks need more equity capital, measured in a way that most closely approximates market values. "
+Moskowitz,Tobias,Agree,6,,Strongly Agree,8,"More accurate information is better, even if the loans cannot be marked to market."
+Nagel,Stefan,Disagree,7,Maturity-mismatch need not imply duration-mismatch. Long-term illiquid assets can have floating interest rates. It's a choice of banks to lend (or invest) at fixed rather than variable interest rates (this choice in turn may be influenced by regulation and accounting rules). ,Agree,7,
+Parker,Jonathan,Disagree,8,"Given derivative markets, it is straightforward for banks to hedge the vast majority of interest rate risk. Some small amounts will surely remain due to uncertainty over pre-payment and default risk, although these too can be significantly hedged.",Strongly Agree,10,"All the complexity and regulation and opacity of the banking sector should not be used to fund investment in bonds. If banks have a purpose worth the messy costs of the sector, it is only for information-intensive relationship lending. Bonds should be marked to market and hedged"
+Parlour,Christine,Agree,9,"While banks do engage in maturity transformation, the extent to which they do so is a choice. ",Uncertain,9,The extent to which duration risk on treasuries etc. is an issue depends on the composition of the banks' assets.  
+Philippon,Thomas,Strongly Agree,10,,Agree,7,
+Puri,Manju,Strongly Agree,9,,Disagree,7,
+Roberts,Michael,Agree,7,"Have to wonder if there is a ""better"" - in a social welfare sense - business models that allows for narrow(er) banking for demand deposits.",Uncertain,7,"I'm not sure this is the solution to recent runs and, in fact, may make the problem worse. "
+Sapienza,Paola,Did Not Answer,,,Did Not Answer,,
+Seru,Amit,Did Not Answer,,,Did Not Answer,,
+Stambaugh,Robert,Agree,7,But they can hedge interest-rate risk to at least some degree.,Uncertain,3,
+Starks,Laura,Strongly Agree,7,,Agree,5,
+Stein,Jeremy,Uncertain,9,Mismatch between duration of assets and contractual duration of liabilities (e.g. treating demand deposits as zero duration) is a near-certainty. But mismatch with effective duration of liabilities that takes into account stickiness of deposits is less inevitable.,Agree,7,I would like to see securities held as available-for-sale market to market; less clear this makes sense for securities held to maturity.
+Stroebel,Johannes,Agree,8,,Uncertain,8,
+Sufi,Amir,Agree,8,,Agree,6,
+Titman,Sheridan,Disagree,8,The banks can easily hedge duration risk,Agree,9,I think both should be marked to market
+Van Nieuwerburgh,Stijn,Agree,6,"Banks use 4 tools to hedges the rate risk: deposit franchise, interest rate derivatives, loan sales, and variable-rate assets. In practice, they do not offset all rate risk, presumably because that would reduce profits substantially. ",Agree,8,Securities like Treasuries already enjoy favorable risk weights. They trade in liquid markets with price transparency. Proper accounting of the market value of liquid securities will increase depositor confidence in banks' financial health. 
+Whited,Toni,Disagree,9,"It is not obvious that maturity transformation is a big part of banking if banks have deposit market power. Then sticky deposit rates ""match"" infrequently repriced loan rates. ",Agree,6,

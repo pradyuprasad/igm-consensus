@@ -1,0 +1,11 @@
+[project]
+name = "clark-center-forum-dataset"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "lxml>=6.1.0",
+    "numpy>=2.4.4",
+    "python-dateutil>=2.9.0.post0",
+    "requests>=2.33.1",
+]
