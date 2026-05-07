@@ -17,6 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 STATEMENTS_CSV = ROOT / "statements_consensus.csv"
+PANEL_FILTER = "US"  # set to None to include all panels
 
 C_AGREE = "#15803d"
 C_DISAGREE = "#b91c1c"
@@ -28,6 +29,8 @@ def load_statements() -> list[dict]:
     with open(STATEMENTS_CSV, newline="", encoding="utf-8") as f:
         for r in csv.DictReader(f):
             if not r["consensus_score"]:
+                continue
+            if PANEL_FILTER and r["panel_type"] != PANEL_FILTER:
                 continue
             n = int(r["n_answered_excluding_no_opinion"] or 0)
             if n == 0:
@@ -181,12 +184,12 @@ def make_chart(
     # annotations: one at each of 10 / 25 / 50 / 75 / 90 percentile ranks.
     # We hand-pick a recognizable statement near each target percentile.
     picks = [
-        (10, "harms from artificial intelligence", "10%ile · “AI risks are best assessed by deploying it”"),
+        (10, "harms from artificial intelligence",          "10%ile · AI risks are best assessed by deploying it"),
         (25, "payment for human kidneys",                   "25%ile · Pay for human kidneys"),
         (50, "$15-per-hour by 2020",                        "50%ile · $15 federal min wage"),
-        (78, "smaller in 2030 than it would have been if the country had remained", "78%ile · “Brexit shrank the UK economy”"),
+        (78, "Local ordinances that limit rent increases",  "78%ile · NYC/SF rent control hurt housing"),
         (90, "North American Free Trade Agreement",         "90%ile · NAFTA makes Americans better off"),
-        (99, "Bureau of Labor Statistics are biased",        "99%ile · “BLS jobs data isn’t politically biased”"),
+        (99, "low-fee, passive index fund",                 "99%ile · Index funds beat stock-picking"),
     ]
     annotations = []
     for pct, kw, label in picks:
@@ -274,14 +277,8 @@ def make_chart(
     pct_high = sum(1 for d in sorted_h if d >= 0.6) / len(sorted_h) * 100
     pct_diffuse = sum(1 for d in sorted_h if d < 0.4) / len(sorted_h) * 100
 
-    pct_contested   = sum(1 for r in rows if r["hhi"] <= 0.40) / len(rows) * 100
-    pct_confident   = sum(1 for r in rows if r["hhi"] >= 0.50) / len(rows) * 100
-    pct_overwhelming = sum(1 for r in rows if r["hhi"] >= 0.75) / len(rows) * 100
     title = "Economists agree on more than you think."
-    subtitle = (f"Across {n:,} IGM Forum survey questions: {pct_confident:.0f}% reach a confident answer (HHI ≥ 0.5), "
-                f"and {pct_overwhelming:.0f}% reach overwhelming consensus (HHI ≥ 0.75). "
-                f"Only {pct_contested:.0f}% are genuinely contested — including the public fights you've heard of "
-                "(AI risks, kidney markets, the $15 minimum wage).")
+    subtitle = "On about four out of five questions, there is a majority answer."
 
     data_json = json.dumps(data, separators=(",", ":"))
     tmpl = """<!doctype html>
