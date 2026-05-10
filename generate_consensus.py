@@ -278,7 +278,7 @@ def make_chart(
     pct_diffuse = sum(1 for d in sorted_h if d < 0.4) / len(sorted_h) * 100
 
     title = "Economists agree on more than you think."
-    subtitle = "On about four out of five questions, there is a majority answer."
+    subtitle = "On about three out of four questions, more than half the panel takes the same side."
 
     data_json = json.dumps(data, separators=(",", ":"))
     tmpl = """<!doctype html>
